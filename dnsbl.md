@@ -1,4 +1,5 @@
-Collection of dnsbl lists 
+# DNSBL Lists
+Collection of well-proven DNS Black Lists.
 
 ```
 zen.spamhaus.org          # https://www.spamhaus.org/zen/
