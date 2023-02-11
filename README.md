@@ -1,11 +1,24 @@
-# DNS Black Lists
-```
-zen.spamhaus.org          # https://www.spamhaus.org/zen/
-bl.spamcop.net            # https://www.spamcop.net/bl.shtml
-cbl.abuseat.org           # https://www.abuseat.org/
-b.barracudacentral.org    # https://barracudacentral.org/rbl
-dnsbl.dronebl.org         # https://dronebl.org/
-ix.dnsbl.manitu.net       # https://www.nixspam.net/
-dnsbl-1.uceprotect.net    # https://www.uceprotect.net/
-bl.score.senderscore.com  # https://senderscore.org/
-```
+# IP Blacklists
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt  
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt  
+https://www.spamhaus.org/drop/drop.txt  
+https://www.spamhaus.org/drop/edrop.txt  
+https://www.spamhaus.org/drop/dropv6.txt  
+http://www.talosintelligence.com/documents/ip-blacklist  
+https://www.blocklist.de/downloads/export-ips_all.txt  
+
+# URL Blacklists
+https://openphish.com/feed.txt  
+https://urlhaus.abuse.ch/downloads/text/  
+https://data.phishtank.com/data/online-valid.csv  
+https://phishunt.io/feed.txt  
+
+# DNSBLs
+zen.spamhaus.org  
+bl.spamcop.net  
+cbl.abuseat.org  
+b.barracudacentral.org  
+dnsbl.dronebl.org  
+ix.dnsbl.manitu.net  
+dnsbl-1.uceprotect.net  
+bl.score.senderscore.com  
