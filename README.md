@@ -7,13 +7,13 @@ https://www.spamhaus.org/drop/dropv6.txt
 http://www.talosintelligence.com/documents/ip-blacklist  
 https://www.blocklist.de/downloads/export-ips_all.txt  
 
-# URL Blacklists
+# Phishing URLs
 https://openphish.com/feed.txt  
 https://urlhaus.abuse.ch/downloads/text/  
 https://data.phishtank.com/data/online-valid.csv  
 https://phishunt.io/feed.txt  
 
-# DNS Blacklists
+# DNSBLs
 zen.spamhaus.org  
 bl.spamcop.net  
 cbl.abuseat.org  
