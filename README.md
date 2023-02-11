@@ -8,12 +8,6 @@ https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 http://www.talosintelligence.com/documents/ip-blacklist  
 https://www.blocklist.de/downloads/export-ips_all.txt  
 
-# Phishing URLs
-https://openphish.com/feed.txt  
-https://urlhaus.abuse.ch/downloads/text/  
-https://data.phishtank.com/data/online-valid.csv  
-https://phishunt.io/feed.txt  
-
 # DNSBLs
 zen.spamhaus.org  
 bl.spamcop.net  
@@ -23,3 +17,9 @@ dnsbl.dronebl.org
 ix.dnsbl.manitu.net  
 dnsbl-1.uceprotect.net  
 bl.score.senderscore.com  
+
+# Phishing URLs
+https://openphish.com/feed.txt  
+https://urlhaus.abuse.ch/downloads/text/  
+https://data.phishtank.com/data/online-valid.csv  
+https://phishunt.io/feed.txt  
