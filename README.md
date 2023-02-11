@@ -13,7 +13,7 @@ https://urlhaus.abuse.ch/downloads/text/
 https://data.phishtank.com/data/online-valid.csv  
 https://phishunt.io/feed.txt  
 
-# DNSBLs
+# DNS Blacklists
 zen.spamhaus.org  
 bl.spamcop.net  
 cbl.abuseat.org  
